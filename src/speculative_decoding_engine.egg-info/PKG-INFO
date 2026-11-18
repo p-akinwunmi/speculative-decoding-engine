@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: speculative-decoding-engine
+Version: 0.1.0
+Summary: Exact speculative decoding, tree-structured causal verification, and paged KV-cache rollback in JAX.
+Requires-Python: >=3.10
+Requires-Dist: jax>=0.4.25
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: scipy>=1.11.0
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0.0; extra == "dev"

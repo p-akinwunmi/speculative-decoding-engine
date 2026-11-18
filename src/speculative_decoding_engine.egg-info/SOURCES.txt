@@ -1,0 +1,12 @@
+pyproject.toml
+src/speculative_decoding_engine.egg-info/PKG-INFO
+src/speculative_decoding_engine.egg-info/SOURCES.txt
+src/speculative_decoding_engine.egg-info/dependency_links.txt
+src/speculative_decoding_engine.egg-info/requires.txt
+src/speculative_decoding_engine.egg-info/top_level.txt
+src/speculative_engine/__init__.py
+src/speculative_engine/kv_rollback.py
+src/speculative_engine/rejection_sampling.py
+src/speculative_engine/tree_attention.py
+tests/test_distributional_parity.py
+tests/test_tree_kv_rollback.py
